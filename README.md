@@ -16,7 +16,7 @@
     </a>
 </p>
 
-This repository provides the source codes of "Finding NLP Papers by Asking a Multi-hop Question" published in Special Interest Group on Spoken Language Understanding and Dialogue Processing (SIG-SLUD) 2022
+This repository provides the source codes of "The Endeavour to Advance Short Text Classification: Using Heterogeneous Graph Neural Network via Building Sememe-relationships (JSAI) 2022
 
 <p align="center">
     <br>
